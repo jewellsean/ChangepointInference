@@ -1,0 +1,12 @@
+Package: ChangepointInference
+Maintainer: Sean Jewell <swjewell@uw.edu>
+Author: Sean Jewell
+Version: 0.9
+License: GPL-3
+Title: Testing for a Change in Mean After Changepoint Detection
+Description: Estimatation and inference for changepoints in the change in mean model detected via L0 and binary segmentation
+Depends: R (>= 2.10)
+Imports: 
+    Rcpp, latex2exp, ggplot2, dplyr, magrittr
+LinkingTo: Rcpp
+RoxygenNote: 6.1.1
