@@ -1,6 +1,6 @@
 # ChangepointInference
 
-See (https://jewellsean.github.io/changepoint-inference/)[https://jewellsean.github.io/changepoint-inference/] for tutorials and examples.
+See [https://jewellsean.github.io/changepoint-inference/](https://jewellsean.github.io/changepoint-inference/) for tutorials and examples.
 
 Install 
 -----
